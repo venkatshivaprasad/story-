@@ -1,0 +1,4 @@
+created chapter using git 
+
+by using the these 
+commands touch chapter2.text
