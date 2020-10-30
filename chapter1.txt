@@ -1,1 +1,27 @@
  i hello doctor , how are you i hope u are fine
+
+
+firstly we need to come to folder(using mkdir foldername) wher we need to perform git version control. 
+
+
+1) create the files using (touch filename eg: touch chapter1.txt)
+
+2) we have to intialise the git using (git init).
+
+3) to check the hiding files inside the file(chapte1.txt) we use (ls -a ).
+
+4) to find status of the file which which are add  
+or  not we use(git status)
+
+5) we add these file (chapter1.txt) using 
+
+(git add chapter1.txt) if  there are more files to 
+
+add all the files at once we use these (git add .)
+
+6) after the file added  to git local repository we need to commit the changes which means we need to save it .  
+ 
+To do these using these cammond (git commit -m "any string in present tense"
+
+7 ) after commiting the changes to have look over changes made we use (git log)
+
