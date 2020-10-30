@@ -2,3 +2,25 @@ created chapter using git
 
 by using the these 
 commands touch chapter2.text
+
+
+
+
+
+
+
+// after we modifiy  any changes we use these steps to bring the changes .
+
+i) git diff filename
+// where he comes to know that the changes took place.
+
+eg : git diff chapter.txt( these gives changes being made in this file).
+
+2) git checkout filename (to the point where he can bring back all he pervise work).
+
+eg:  git chekout chapter2.text( this brings previse save or check point ) 
+
+3) git log 
+// these step helps to see the updated or pervise version of file 
+
+
