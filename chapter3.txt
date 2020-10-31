@@ -1,1 +1,36 @@
-created chapter3 using git by touch chapter3.txt 
+created chapter3 using git by touch chapter3.txt
+
+
+
+
+
+// moving the files from the local repository to remote repository . 
+
+
+1).first we need to create the local repository then we need to set a github account
+
+
+2) we need to create new repository 
+
+coping the link fo repository 
+
+
+3) git remote add origin link copied 
+
+
+ // origin is name of the repository it can be  
+any thing but we keep it as origin
+
+
+now remote is created  
+
+
+4) To push local repository to remote we need push it to remote repositroy . 
+
+git push -u origin master 
+
+
+// -u is flag which helps in pushing ur code or file to remote repository and branch named master .
+
+ then uploding reposity takes place 
+
