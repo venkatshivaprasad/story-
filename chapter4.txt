@@ -22,3 +22,20 @@ git branch name(anyname)
 git checkout brachname 
 
 
+// after modifying or adding anything in the new branch if u want to add it to the main branch or master branch 
+
+Then we need to merge it to main branch 
+
+4.firstly we need to come to the master branch 
+  
+
+5. Now to merge the branch 
+
+git merge branchname(the name of branch u want to merge into master branch ). 
+
+
+// then when we git log we can see all the commits made in new branch are also add to master branch 
+
+
+
+
