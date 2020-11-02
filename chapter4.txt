@@ -1,0 +1,24 @@
+branching : this helps in creating new branches where expermentation can be done without effecting the master or main branch 
+
+when we this branch result we can then merge into the main branch .
+
+// This branch is be done as fallows
+
+1. To check the number of branches 
+
+git branch 
+
+// this gives list of  branches present . 
+
+
+2. To add the new branch 
+
+git branch name(anyname)
+
+// again if we want check we use  git branch to all the branches 
+
+3.when want to switch branches 
+
+git checkout brachname 
+
+
